@@ -1897,7 +1897,7 @@ Realizamos una organización de llamada SocialTechnology-OS en donde colocamos t
 
 |**Solución**|**Nombre de repositorio**|**Enlace**|
 | :- | :- | :- |
-|Landing|LandingPage-CookGuide|[https://github.com/WALMAT-TECH/FRONTEND-TUCINE.git](https://socialtechnology-os.github.io/LandingPage-CookGuide/ )|
+|Landing|LandingPage-CookGuide|https://socialtechnology-os.github.io/LandingPage-CookGuide/|
 
 ### <a name="_toc146873759"></a>5.1.3. Source Code Style Guide & Conventions
 En lo que respecta a las convenciones o estilos de programación, seguiremos las convenciones básicas de camelCase y UpperCamelCase según corresponda. Además, nos regimos por la guía de estilo de Google para programar en HTML y CSS, conocida como el "Google HTML/CSS Style Guide".
