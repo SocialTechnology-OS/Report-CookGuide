@@ -1891,13 +1891,13 @@ Link: <https://my.vertabelo.com/public-model-view/YCo9lGgafyxjOAb2MSAKRUlE0mepLn
 
 
 
-<a name="_toc146873758"></a>5.1.2. Source Code Management (CAMBIAR)
+<a name="_toc146873758"></a>5.1.2. Source Code Management 
 
-Utilizaremos GitHub para llevar el control de nuestras versiones de desarrollo, hemos creado una organización llamada WALMAT-TECH en las que tenemos todos los repositorios necesarios: https://github.com/orgs/WALMAT-TECH/repositories. Asimismo, se adjuntan los enlaces correspondientes a los repositorios de cada una de las soluciones implementadas
+Realizamos una organización de llamada SocialTechnology-OS en donde colocamos todos nuestros repositorios.
 
 |**Solución**|**Nombre de repositorio**|**Enlace**|
 | :- | :- | :- |
-|Frontend|FRONTEND-TUCINE|https://github.com/WALMAT-TECH/FRONTEND-TUCINE.git|
+|Landing|LandingPage-CookGuide|[https://github.com/WALMAT-TECH/FRONTEND-TUCINE.git](https://socialtechnology-os.github.io/LandingPage-CookGuide/ )|
 
 ### <a name="_toc146873759"></a>5.1.3. Source Code Style Guide & Conventions
 En lo que respecta a las convenciones o estilos de programación, seguiremos las convenciones básicas de camelCase y UpperCamelCase según corresponda. Además, nos regimos por la guía de estilo de Google para programar en HTML y CSS, conocida como el "Google HTML/CSS Style Guide".
