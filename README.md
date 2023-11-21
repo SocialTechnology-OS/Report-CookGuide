@@ -2095,13 +2095,466 @@ Enlace del video: <https://drive.google.com/drive/u/0/folders/1qoQYVef5-qmxQMX23
 ## 5\.2.2. Sprint 2
 ### 5\.2.2.1. Sprint Planning 2
 
+| Sprint # | 2 |
+| --- | --- |
+| Sprint Planning Background |
+| Date | 2023-09-02 |
+| Time | 40 horas |
+| Location | Reunión Virtual (Lima, Perú) |
+| Prepared By | Trujillo Lopez, Luis Alberto |
+| Attendees (to planning meeting) | Sanchez Ramirez, Diego Antonio / Paitan Pumacahua, Max Anthony / Ramos Vicente, William / Siancas Reategui, Luis Alberto / Trujillo Lopez, Luis Alberto |
+| Sprint Goal & User Stories |
+| Sprint 1 goal | 38 points |
+| Sprint 1 Velocity | 8 points |
+| Sum of Story Points | 40 points |
+
+### 5\.2.2.2.	Sprint Backlog 2
+
+<table>
+  <tr>
+    <th colspan="1" valign="top"><b>Sprint #</b></th>
+    <th colspan="7" valign="top"><b>Sprint 2</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><b>User Story</b></td>
+    <td colspan="6" valign="top"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation (Hours)</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">US001</td>
+    <td colspan="1" rowspan="2" valign="top">Registrar datos del usuario</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar el registro de usuario</td>
+    <td colspan="1" valign="top">El desarrollador implementa los componentes y vista para el registro del usuario</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Luis Siancas</td>
+    <td colspan="1" valign="top">In Process</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Luis Siancas</td>
+    <td colspan="1" valign="top">To do</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US002</td>
+    <td colspan="1" valign="top">Elegir tipo de cuenta</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar la opción de elección de tipo de cuenta</td>
+    <td colspan="1" valign="top">El desarrollador implementa la opción y lógica para la creación de tipos de cuenta: estudiante o cocinero</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Luis Siancas</td>
+    <td colspan="1" valign="top">In Process</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">US004</td>
+    <td colspan="1" rowspan="2" valign="top">Iniciar sesión</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar el inicio de sesión</td>
+    <td colspan="1" valign="top">Implementar los componentes y vista para el registro del usuario</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Max Paitán</td>
+    <td colspan="1" valign="top">In Process</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">William Ramos</td>
+    <td colspan="1" valign="top">In Process</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3" valign="top">US010</td>
+    <td colspan="1" rowspan="3" valign="top">Configurar perfil</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar la vista del perfil del usuario</td>
+    <td colspan="1" valign="top">El desarrollador implementa la vista del perfil del usuario.</td>
+    <td colspan="1" valign="top">2 horas</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Implementar rutas</td>
+    <td colspan="1" valign="top">El desarrollador configura las rutas a las que se podrá redirigir el usuario desde su perfil</td>
+    <td colspan="1" valign="top">0.5 Horas</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">To do</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T003</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4" valign="top">US026</td>
+    <td colspan="1" rowspan="4" valign="top">Publicar recetas</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar la barra de navegación principal</td>
+    <td colspan="1" valign="top">El desarrollador implementa la barra de navegación usando Angular.</td>
+    <td colspan="1" valign="top">2 horas</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Implementar la vista home del cocinero</td>
+    <td colspan="1" valign="top">El desarrollador crea el componente para la vista Home del cocinero e implementa la lógica para mostrar las recetas creadas</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T003</td>
+    <td colspan="1" valign="top">Implementar el componente para agregar receta</td>
+    <td colspan="1" valign="top">El desarrollador implementa los componentes y lógica para añadir recetas.</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T004</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">US028</td>
+    <td colspan="1" rowspan="2" valign="top">Editar recetas</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar el componente para editar receta</td>
+    <td colspan="1" valign="top">El desarrollador implementa los componentes y lógica para editar las recetas creadas.</td>
+    <td colspan="1" valign="top">2 Horas</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar una limpieza de código</td>
+    <td colspan="1" valign="top">Corrección de errores y optimización de código</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+### 5\.2.2.3. Development Evidence for Sprint Review
+
+El equipo ha creado este registro para documentar el progreso logrado durante el período del sprint. El propósito es mostrar el avance y los cambios realizados a lo largo del tiempo, lo que nos permitirá tener una retroalimentación sobre el trabajo previo. Como parte de este registro, se han recopilado y presentado los "commits" realizados, reflejando las modificaciones, adiciones y desarrollos efectuados en el proyecto durante este intervalo de tiempo.
+
+| Repository           | Branch       | Commit-ID                                 | Commit Message                                  | Commit Message Body                          | Commited on (Date)          |
+|----------------------|--------------|-------------------------------------------|-------------------------------------------------|--------------------------------------------|-----------------------------|
+| SocialTechnology-OS  | main         | d2ed04a7b09be6b78361bc932f4fc3c26a56af57  | Initial commit                                  |                                             | Wed Sep 27 22:39:04 2023    |
+| SocialTechnology-OS  | main         | 45d6add9cc5a9feeb6e88a9c0067599db094152c  | Update README.md                                | Actualización del README                    | Wed Sep 27 23:17:24 2023    |
+| SocialTechnology-OS  | Development  | 678c65378b6fa10732f0b55b7ef3b1acc0a07bc7  | create project                                  | implement agular and components             | Wed Sep 27 23:17:24 2023    |
+| SocialTechnology-OS  | Development  | 2dad48465dc6887a9a758164104d2c736d85ab00  | add footer                                      | agregando footer                           | Wed Sep 27 23:59:06 2023    |
+| SocialTechnology-OS  | Development  | 147c68575ab1e501179373f204f70f6d08f40053  | show cards and json                             | Implementacion de cards                    | Thu Sep 28 15:12:57 2023    |
+| SocialTechnology-OS  | Development  | adbe2b8e84949e726764ece319bd460f3f08a18a  | change gap                                      |                                             | Thu Sep 28 15:19:27 2023    |
+| SocialTechnology-OS  | Development  | 4936cc4eeaa843fe06b465a24f8efe75d03a4ecf  | Update path                                     |                                             | Thu Sep 28 22:00:12 2023    |
+| SocialTechnology-OS  | Main         | 5151c94d949b5d0baf4b093343635c253af010f6  | Include sidevar                                 | Se incluye el sidevar y el arreglo del body de nuestra pagina | Fri Sep 29 01:40:41 2023    |
+| SocialTechnology-OS  | Development  | 61120bebb10c505297710d1410b2895e417add53  | feature: Creation CRUD                          | Se creo el metodo de borrar, listar y crear recetas | Fri Sep 29 03:34:39 2023    |
+| SocialTechnology-OS  | Main         | d1b3b9be1b028d431259bfa4f8021eb216074a71  | Merge pull request #1 from DahuX04/development | Feature: Creation CRUD                     | Fri Sep 29 03:35:47 2023    |
+
+### 5\.2.2.4.	Testing Suite Evidence for Sprint Review.
+
+Se realizaron las siguientes pruebas de Gherkin:
+![](https://media.discordapp.net/attachments/1157706197911208028/1176629961759674380/image.png?ex=656f910b&is=655d1c0b&hm=2fbe48f1426c0604b45be1f04515a20e01c9b733cea2e447003961fe23bf156e&=&width=1103&height=662)
+Gherkin: https://github.com/SocialTechnology-OS/Gherkin-CookGuide 
+
+### 5\.2.2.5. Execution Evidence for Sprint Review
+
+Como 2do ciclo de vida del Proyecto, se tuvo la tarea de realizar parte del front-end de la aplicación web de nuestra startup. Esto se ve reflejado en el diseño y programación de las funcionalidades de nuestro front-end
+![](https://media.discordapp.net/attachments/1157706197911208028/1176631592140165171/image.png?ex=656f9290&is=655d1d90&hm=93831dc6b20c5806ed3b5f61f8de6e6568f021a76217fa14a67095a8911d5caa&=&width=1293&height=515)
+https://upcedupe-my.sharepoint.com/personal/u202021367_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202021367%5Fupc%5Fedu%5Fpe%2FDocuments%2FCiclo%20VII%2FOpenSource%2FTB2%2Fupc%2Dpre%2D202302%2Dsi729%2DWS52%2DSocialTech%2Dexecution%2Devidence%2Dtp1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+
+### 5\.2.2.6.	Services Documentation Evidence for Sprint Review
+
+Reunión en discord:
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1157726375055204496/image.png?ex=656b6535&is=6558f035&hm=3ce20f094e856fffb7f1196eb9bb47ca25126242f6b8dd63aff8682fd9efc947&=&width=766&height=662)
+
+### 5\.2.2.7.	Software Deployment Evidence for Sprint Review.
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1157726389991125102/image.png?ex=656b6538&is=6558f038&hm=5005d5bba8cec996cfd294a347b4084e16703e47942cef388cf6adf4ccec289c&=&width=1176&height=617)
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1157726404864123080/image.png?ex=656b653c&is=6558f03c&hm=7204be0baffe3e469d66e81c54d7532b48a9394f00a61196906c2df45c91e698&=&width=1176&height=617)
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1157726426125054012/image.png?ex=656b6541&is=6558f041&hm=bdad8828fdc1a68eb80ac4ec34f6568293a9c60ef257ddd2d47efad0ac75001f&=&width=1176&height=616)
+
+### 5\.2.2.8.	Team Collaboration Insights during Sprint.
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1157726442579296378/image.png?ex=656b6545&is=6558f045&hm=c2c78e9bef47396f47b8bed6de8b1bb702dc7f73390b0b93478922501ac902d8&=&width=1293&height=516)
+
+## 5\.2.3.	Sprint 3
+### 5\.2.3.1.	Sprint Planning 3
+| Sprint # | 3 |
+| --- | --- |
+| **Sprint Planning Background** | |
+| Date | 2023-11-04 |
+| Time | 20.5 horas |
+| Location | Reunión Virtual (Lima, Perú) |
+| Prepared By | Trujillo Lopez, Luis Alberto |
+| Attendees (to planning meeting) | Ramos Vicente, William / Sánchez Ramírez, Diego Antonio / Siancas Reategui, Luis Alberto / Trujillo Lopez, Luis Alberto |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 goal | 38 points |
+| Sprint 3 Velocity | 6 points |
+| Sum of Story Points | 40 points |
+
+### 5\.2.3.2.	Sprint Backlog 3.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top"><b>Sprint #</b></th>
+    <th colspan="7" valign="top"><b>Sprint 3</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><b>User Story</b></td>
+    <td colspan="6" valign="top"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">ID</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation (Hours)</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US001</td>
+    <td colspan="1" valign="top">Registrar datos del usuario</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar un método de almacenamiento de datos</td>
+    <td colspan="1" valign="top">El desarrollador implementa los métodos para el registro de datos de cuenta</td>
+    <td colspan="1" valign="top">4 Horas</td>
+    <td colspan="1" valign="top">Luis Trujillo & Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Implementar las validaciones en la base de datos</td>
+    <td colspan="1" valign="top">Se crean las validaciones en el registro de datos del usuario</td>
+    <td colspan="1" valign="top">3 Horas</td>
+    <td colspan="1" valign="top">Luis Siancas & Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US002</td>
+    <td colspan="1" valign="top">Elegir tipo de cuenta</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar la opción de elección de tipo de cuenta</td>
+    <td colspan="1" valign="top">Realizar las validaciones para la inserción en la elección del tipo de cuenta</td>
+    <td colspan="1" valign="top">2 Horas</td>
+    <td colspan="1" valign="top">Luis Trujillo & Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US004</td>
+    <td colspan="1"  valign="top">Iniciar sesión</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar el método para el inicio de sesión de una cuenta ya registrada</td>
+    <td colspan="1" valign="top">Realizar el método para el inicio de sesión de una cuenta con las validaciones y campos obligatorios</td>
+    <td colspan="1" valign="top">4 Horas</td>
+    <td colspan="1" valign="top">Diego Sánchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar un método que traiga todas las cuentas</td>
+    <td colspan="1" valign="top">Método para traer todas las cuentas y administrar todas ellas</td>
+    <td colspan="1" valign="top">1 Hora</td>
+    <td colspan="1" valign="top">William Ramos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">US010</td>
+    <td colspan="1" valign="top">Configurar perfil</td>
+    <td colspan="1" valign="top">T001</td>
+    <td colspan="1" valign="top">Implementar el método de editar perfil</td>
+    <td colspan="1" valign="top">El desarrollador implementa un método para que el usuario pueda actualizar sus datos</td>
+    <td colspan="1" valign="top">5 horas</td>
+    <td colspan="1" valign="top">Luis Trujillo & Diego Sanchez</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="1" valign="top">T002</td>
+    <td colspan="1" valign="top">Realizar las validaciones</td>
+    <td colspan="1" valign="top">El desarrollador configura las rutas a las que se podrá redirigir el usuario desde su perfil</td>
+    <td colspan="1" valign="top">1.5 Horas</td>
+    <td colspan="1" valign="top">Luis Trujillo</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+### 5\.2.3.3.	Development Evidence for Sprint Review.
+El equipo ha elaborado un registro para detallar el progreso efectuado en el sprint, con el objetivo de exhibir las tareas realizadas durante este periodo y obtener una evaluación retrospectiva de lo logrado previamente. Este registro contiene una recopilación de los "commits" llevados a cabo, reflejando los cambios, adiciones y actualizaciones implementadas en el proyecto durante este lapso de tiempo.
+
+| Repository          | Branch | Commit-ID | Commit Message                           | Commit Message Body | Commited on (Date) |
+|---------------------|--------|-----------|------------------------------------------|---------------------|---------------------|
+| CookGuide-BackEnd   | US001  | 4e34c60   | Initial Commit                           | -                   | 31/10/2023         |
+| CookGuide-BackEnd   | US001  | bea7e57   | (W.I.P) Back-end Cookguide               | -                   | 4/11/2023          |
+| CookGuide-BackEnd   | US001  | d0f7006   | Modelo físico de DB                      | -                   | 4/11/2023          |
+| CookGuide-BackEnd   | US001  | fe5dc94   | Feature: Method Post aggregate for “Accounts” | -               | 5/11/2023          |
+| CookGuide-BackEnd   | US001  | d251d0a   | Crud Accounts                            | -                   | 5/11/2023          |
+
+### 5\.2.3.4.	Testing Suite Evidence for Sprint Review.
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1170830837814669412/image.png?ex=656ced30&is=655a7830&hm=373cb854007a03bf3046a60fd254ce3c86681d76fcbc99b6bd68000e901621f2&=&width=1136&height=662)
+![](https://media.discordapp.net/attachments/1157706197911208028/1170830915879063693/image.png?ex=656ced43&is=655a7843&hm=fcb9ea390f226f8f4a4eeb0a99a1aca9df97b448f9550c7fd231fe742390f073&=&width=1191&height=578)
+
+### 5\.2.3.5.	Execution Evidence for Sprint Review.
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176641443171946516/image.png?ex=656f9bbc&is=655d26bc&hm=eb5ddadda8d6f79b4869d36410e6577448ac03daec79762ba824635b981f920d&=&width=1061&height=662)
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176641617470439425/image.png?ex=656f9be6&is=655d26e6&hm=853d8359027dc7304b3de0bc37eb82c845ea534b08c1183ba2379cf99034f2ee&=&width=1065&height=662)
+
+### 5\.2.3.6.	Services Documentation Evidence for Sprint Review.
+
+| EndPoint                            | Detalles                                            |
+|-------------------------------------|-----------------------------------------------------|
+| (GET) /api/v1/accounts              | Muestra todas las cuentas ya creadas                |
+| (POST) /api/v1/accounts             | Crea cuentas tomando en razón a las validaciones    |
+| (PUT) /api/v1/accounts/{id}         | Actualiza los datos de una cuenta seleccionada por id |
+| (DELETE) /api/v1/accounts/{id}      | Eliminar una cuenta por el id                        |
+
+| EndPoint                           | Detalles                                             |
+|------------------------------------|------------------------------------------------------|
+| (GET) /api/v1/recipes               | Muestra todas las recetas ya creadas                  |
+| (POST) /api/v1/recipes              | Crea recetas tomando en cuenta las validaciones      |
+| (PUT) /api/v1/recipes/{id}          | Actualiza los datos de una receta seleccionada por id |
+| (DELETE) /api/v1/recipes/{id}       | Elimina una receta por el id                          |
+
+### 5\.2.3.7.	Software Deployment Evidence for Sprint Review.
+
+Usamos la herramienta de RailWay para desplegar nuestra API y Azure para la base de datos
+![](https://media.discordapp.net/attachments/1157706197911208028/1176642234804871168/image.png?ex=656f9c79&is=655d2779&hm=b1fcfff5627d44aa5c92ae1b46ce2641906d0900c9f2b1f31ab4514c6f4e701a&=&width=1145&height=330)
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176642255923196076/image.png?ex=656f9c7e&is=655d277e&hm=461c3e14fbe2d127f70edc0b40994dc6a5807cad34d6f2971fd97f7c52a2b7ca&=&width=1293&height=355)
+
+### 5\.2.3.8.	Team Collaboration Insights during Sprint.
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176642553941078146/image.png?ex=656f9cc5&is=655d27c5&hm=05087916e88edf4089fa5d24bc902f26b8ea976e1c17358953c1b8145570f7b0&=&width=1293&height=588)
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176642690260160592/image.png?ex=656f9ce6&is=655d27e6&hm=9ba29f0ab4bda72ae0dab6be8b86b6241a0d961332dd3f645e808a8d4774181a&=&width=997&height=662)
+
+# 5\.3.	Validation Interviews.
+
+## 5\.3.1.	Diseño de Entrevistas.
+Chefs (Profesionales o Amateurs):
+- ¿Cuál es tu impresión inicial de CookGuide como una herramienta para aprender a cocinar platos tradicionales y extranjeros? ¿Te parece intuitiva?
+- ¿Qué te parece la variedad de recetas disponibles en CookGuide? ¿Crees que podría ayudarte a expandir tu repertorio culinario?
+- ¿Entiendes cómo funcionan las opciones de personalización y sustitución de ingredientes en CookGuide? ¿Te resulta fácil realizar cambios en las recetas?
+- ¿Qué características o herramientas te resultan más atractivas al explorar CookGuide por primera vez? ¿Hay algo que llame especialmente tu atención?
+- A medida que exploras CookGuide, ¿puedes identificar alguna funcionalidad que creas que sería especialmente útil para mejorar tus habilidades culinarias?
+  
+Estudiantes Universitarios:
+
+- Al revisar CookGuide por primera vez, ¿te parece que esta aplicación podría ser útil para ayudarte a cocinar comidas en casa?
+- ¿Qué opinas sobre la posibilidad de personalizar las recetas según tus preferencias dietéticas y restricciones alimentarias? ¿Te resulta interesante?
+- ¿Encuentras la interfaz de usuario de CookGuide fácil de entender y navegar mientras exploras la aplicación por primera vez?
+- ¿Te gustaría unirte a la comunidad y dejar comentarios en las recetas en el futuro? ¿Crees que podría ser beneficioso compartir experiencias con otros usuarios?
+- ¿Hay alguna característica específica que te gustaría ver en CookGuide que aún no hayas descubierto al explorar la aplicación por primera vez? ¿Tienes alguna sugerencia inicial de mejora?
+
+## 5\.3.2.	Registro de Entrevistas.
+
+Segmento 1: Estudiantes universitarios
+
+Entrevistado 1:
+
+- Nombre y Apellido: Kiara Balvin
+- Edad: 18
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176643490927616111/image.png?ex=656f9da5&is=655d28a5&hm=8e1b2167f0a90809ab31965f3da5b773908a7b9cd8e30f172a3877dbe2b438b0&=&width=1172&height=662)
+
+- URL del video: Kiara Balvin - Estudiante 1.mp4
+- Informe de Resumen sobre la entrevista:
+Kiara nos menciona que es una estudiante que la aplicación le parece útil porque la guía rápida que ofrece la aplicación es útil para su forma de cocinar, también nos comenta que personalizar sus recetas la hace sentir como si la app fuera parte de ella. Asimismo, nos comenta que se le hace muy fácil usar la aplicación ya qué es muy intuitivos. Por último, nos dice que lo qué se debe mejorar es qué quizás se pueda agregar videos acerca de la receta.
+
+
+Entrevistado 2:
+- Nombre y Apellido: Diego Puerta
+- Edad: 20
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176643723841511425/image.png?ex=656f9ddc&is=655d28dc&hm=941c144fbab6613a2b1ea294bc16d96c4ccf4f096c22b4a000d5325bf2501109&=&width=1175&height=655)
+
+- URL del video: Diego Puerta - Estudiante.mp4
+- Informe de Resumen sobre la entrevista:
+Diego, por su parte, comparte sus impresiones sobre la aplicación de cocina. Él enfatiza que la app le resulta altamente práctica debido a la rapidez con la que la guía a través de las recetas. Para Diego, la posibilidad de personalizar las recetas le brinda una experiencia culinaria más única, sintiendo una conexión especial con la aplicación. Además, menciona que encuentra la app extremadamente fácil de utilizar, gracias a su intuitiva interfaz. Por último, sugiere que una mejora deseable podría ser la inclusión de videos instructivos relacionados con las recetas.
+
+
+Segmento 2: Cocineros amateurs y profesionales
+Entrevistado 1:
+- Nombre y Apellido: Daphne Eyzaguirre
+- Edad: 20
+- Evidencia de la reunión:
+
+![](https://media.discordapp.net/attachments/1157706197911208028/1176646123763548240/image.png?ex=656fa018&is=655d2b18&hm=77f59e34948a19a7de93c5b0100e765d3246d74cdd7d01939f9b945f254c11d9&=&width=1175&height=657)
+
+- URL del video: Daphne Eyzaguirre - Cocinera.mp4
+- Informe de Resumen sobre la entrevista:  
+Daphne nos comenta que la aplicación a una primera impresión le hace una aplicación muy útil e interesante, ya sea para ella como chef como también para personas que quizás no dominan muy bien la tecnología. Nos comenta también que a ella le servirá para expandir su repertorio de recetas ya que en la plataforma actualmente se encuentran mucha diversidad que a ella como cocinera de comida marina le favorece para entrar en otros campos. Asimismo, nos menciona que le encanta la idea de que la aplicación sea como una especie de red social pero de solamente recetas. Por último nos menciona que le agradaría mucho el hecho de dividir el tipo de receta por tipo de comidas.
+
+Entrevistado 2:
+- Nombre y Apellido: Jose Traslaviña
+- Edad: 24
+- Evidencia de la reunión:
+- ![](https://media.discordapp.net/attachments/1157706197911208028/1176646527301730335/image.png?ex=656fa079&is=655d2b79&hm=7740c058ff82621a001d7586ee15f987f28cf68e409d2c797a40d70494200ff4&=&width=1175&height=656)
+
+- URL del video: José Traslaviña - Cocinero.mp4
+- Informe de Resumen sobre la entrevista:
+Jose, al respecto, tiene sus propias opiniones acerca de la aplicación. En primer lugar, considera que la aplicación le causa una impresión inicial muy favorable, percibiéndola como una herramienta altamente útil e interesante. Para él, esta aplicación no solo beneficia a chefs experimentados, sino que también puede ser de gran utilidad para aquellos que no son tan adeptos a la tecnología. Jose está emocionado por la posibilidad de ampliar su repertorio culinario, ya que la plataforma ofrece una gran diversidad de recetas, lo que le permite explorar más allá.
+Además, a Jose le atrae especialmente la idea de que la aplicación funcione como una suerte de red social exclusivamente centrada en recetas. Por último, sugiere que sería muy beneficioso si la aplicación pudiera agregar videos de referencias a las recetas.
+
+## 5\.3.3.	Evaluaciones según heurísticas.
+
+En base a la información recolectada con las entrevistas, analizaremos la interfaz de la aplicación mediante las heurísticas de Nielsen: 
+
+- Visibilidad del estado del sistema Funcionalidades referentes a la visibilidad del estado del sistema aún se encuentran en proceso de desarollado, por lo que no hubieron observaciones en este caso.
+- Relación entre el sistema y el mundo real El idioma que utiliza la aplicación se acerca al lenguaje común de los segmentos objetivos, brindando un entorno familiar y sencillo de utilizar. 
+- Libertad y control por parte del usuario: El usuario es libre de navegar por la aplicación sin problemas o restricciones, por lo que se cumple la libertad y control del usuario al utilizar la aplicación. 
+- Consistencia y estándares Los entrevistados mencionan la facilidad de utilizar la aplicación, por lo que no se presentan errores de consistencia o estándares de diseño. 
+- Prevención de errores Funciones relacionadas a la prevención de errores se siguen trabajando en el desarrollo de la aplicación. 
+- Reconocimiento antes que recuerdo El usuario no debe recordar funciones de la aplicación para realizar funciones comunes al navegar por la aplicación. 
+- Flexibilidad y eficiencia de uso Se cumple la flexibilidad del usuario al otorgar las funciones más relevantes al ingresar a la aplicación en el caso de las próximas citas médicas por atender y la opción de reservar citas médicas. 
+- Estética y diseño minimalista Se prioriza el contenido relevante al mostrar información y sus características antes que los elementos adicionales. Además, se utilizan colores de fondo simples y fuentes de color de letras más oscuras para resltar el contenido.
+- Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de los errores Los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. www.medmeet.com 259 
+- Ayuda y documentación De igual manera, los mensajes de ayuda aún están en proceso de desarrollo, por lo que no se ha considerado este ítem en la evaluación. Sin embargo, se proyecta tener un apartado de preguntas frecuentes y sistema de tickets para resolver consultas en un futuro
+
+# 5\.4.	Video About-the-Product.
+
 
 # <a name="_toc146873764"></a>**CONCLUSIONES**
-- SocialTech se encuentra en una posición única para abordar el problema de la mala alimentación entre los jóvenes universitarios en Lima, Perú, a través de su innovadora aplicación web, CookGuide. Esta aplicación busca ofrecer una solución completa y accesible para ayudar a los estudiantes a mejorar sus hábitos alimenticios y cocinar comidas saludables y deliciosas. Además, brinda la oportunidad a cocineros aficionados y profesionales de compartir sus conocimientos culinarios y generar ingresos adicionales.
+- SocialTech se encuentra en una posición única para abordar el problema de la mala alimentación entre los jóvenes universitarios en Lima, Perú, a través de su https://media.discordapp.net/attachments/1157706197911208028/1176629961759674380/image.png?ex=656f910b&is=655d1c0b&hm=2fbe48f1426c0604b45be1f04515a20e01c9b733cea2e447003961fe23bf156e&=&width=1103&height=662innovadora aplicación web, CookGuide. Esta aplicación busca ofrecer una solución completa y accesible para ayudar a los estudiantes a mejorar sus hábitos alimenticios y cocinar comidas saludables y deliciosas. Además, brinda la oportunidad a cocineros aficionados y profesionales de compartir sus conocimientos culinarios y generar ingresos adicionales.
 - Hemos identificado hipótesis clave que guiarán nuestra estrategia y nos permitirán medir el éxito de nuestro proyecto. Creemos que, al ofrecer una amplia variedad de recetas, una experiencia de usuario excepcional y fomentar la interacción entre usuarios y cocineros, podremos atraer y retener a una comunidad activa y comprometida en nuestra plataforma.
 - Nuestro enfoque en la personalización, la adaptabilidad y la retroalimentación constante de los usuarios nos permitirá diferenciarnos en un mercado competitivo y ofrecer un valor real a nuestros clientes. Si bien enfrentamos desafíos como la generación de contenido suficiente y la retención de usuarios, estamos comprometidos a superar estos obstáculos a medida que avanzamos en el desarrollo de CookGuide.
 - Nuestro objetivo es transformar la experiencia culinaria de los jóvenes universitarios y ayudar a construir una comunidad apasionada en torno a la cocina. Con una sólida estrategia y un enfoque centrado en el usuario, estamos preparados para enfrentar estos desafíos y trabajar hacia un cambio positivo en la sociedad a través de la innovación tecnológica.
-
 
 # **BIBLIOGRAFÍA**
 Ramón, E., Martínez, B., Granada, J., Echániz, E., Pellicer, B., Juárez, R., Guerrero, S., & Sáez, M. (2018). Conducta alimentaria y su relación con el estrés, la ansiedad, la depresión y el insomnio en estudiantes universitarios. Nutrición Hospitalaria, 36(6), 1339-1345. http://dx.doi.org/10.20960/nh.02641
