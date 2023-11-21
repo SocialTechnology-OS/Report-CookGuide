@@ -2092,6 +2092,10 @@ Enlace del video: <https://drive.google.com/drive/u/0/folders/1qoQYVef5-qmxQMX23
 #### 5\.2.1.8. Team Collaboration Insights during Sprint.
 ![](https://media.discordapp.net/attachments/1157706197911208028/1157726442579296378/image.png?ex=6519a845&is=651856c5&hm=4d59cacc734093aa031b5941812d13e695739363b056bb454f6d7dc51afe823b&=&width=1025&height=409)
 
+## 5\.2.2. Sprint 2
+### 5\.2.2.1. Sprint Planning 2
+
+
 # <a name="_toc146873764"></a>**CONCLUSIONES**
 - SocialTech se encuentra en una posición única para abordar el problema de la mala alimentación entre los jóvenes universitarios en Lima, Perú, a través de su innovadora aplicación web, CookGuide. Esta aplicación busca ofrecer una solución completa y accesible para ayudar a los estudiantes a mejorar sus hábitos alimenticios y cocinar comidas saludables y deliciosas. Además, brinda la oportunidad a cocineros aficionados y profesionales de compartir sus conocimientos culinarios y generar ingresos adicionales.
 - Hemos identificado hipótesis clave que guiarán nuestra estrategia y nos permitirán medir el éxito de nuestro proyecto. Creemos que, al ofrecer una amplia variedad de recetas, una experiencia de usuario excepcional y fomentar la interacción entre usuarios y cocineros, podremos atraer y retener a una comunidad activa y comprometida en nuestra plataforma.
